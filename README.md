@@ -8,13 +8,13 @@ Bienvenue sur Brainy, votre destination shopping tout-en-un !
 
 Brainy est un site web de shopping entièrement responsive conçu pour offrir une expérience de shopping sans accroc. Il propose aux utilisateurs plusieurs fonctionnalités, notamment :
 
-## Détails des Produits : Consultez des détails complets sur chaque produit.
+[Détails des Produits :] Consultez des détails complets sur chaque produit.
 
-## Sélection de Taille et Quantité : Pour les vêtements, sélectionnez facilement les tailles et les quantités.
+[Sélection de Taille et Quantité :] Pour les vêtements, sélectionnez facilement les tailles et les quantités.
 
-## Gestion du Panier : Ajoutez les articles souhaités au panier pour un passage en caisse simplifié.
+[Gestion du Panier :] Ajoutez les articles souhaités au panier pour un passage en caisse simplifié.
 
-## Fonctionnalités
+# Fonctionnalités
 
 Design Responsive : Le site est optimisé pour divers appareils pour une expérience cohérente et conviviale.
 Interface Intuitive : Interface conviviale pour une navigation et une interaction fluides.
